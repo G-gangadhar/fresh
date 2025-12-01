@@ -1,11 +1,11 @@
 git
 git pull
-clone
-cd file
-status
-diff
-add
-add .
-commit -m
-push
+git clone
+git status
+git diff
+git add
+git add .
+git commit -m
+git push
+
 
