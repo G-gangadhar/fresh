@@ -1,0 +1,11 @@
+git
+git pull
+clone
+cd file
+status
+diff
+add
+add .
+commit -m
+push
+
